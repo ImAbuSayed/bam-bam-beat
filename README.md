@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bam-bam-beat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bam Bam Beat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam-beat/) |
+| **Get License** | [Secure Licensing Rights for Bam Bam Beat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam-beat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1433706ee9d21333797fcf3d368748211b05e65de1e608f9a5a319002b47ad97` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
