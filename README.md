@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bam-bam-beat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Bam Bam Beat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam-beat/) |
+| **Get License** | [Commercial Licensing for Bam Bam Beat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam-beat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tere kale naina di ae dark sight ni
+> Dil mere vich kardi ae spark light ni
+> Raatan nu main jagda haan catching the heat
+> Nachdi da nakhra wajda like a beat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
